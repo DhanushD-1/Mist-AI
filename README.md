@@ -12,6 +12,10 @@
 
 **MIST AI** is an intelligent virtual assistant specifically designed for SRM University students, faculty, and prospective students. It provides instant, accurate answers about admissions, courses, campus life, fees, placements, and everything related to SRM University.
 
+<img width="1919" height="1025" alt="Screenshot 2025-09-05 163510" src="https://github.com/user-attachments/assets/ea19b7e6-8a2a-4c09-884e-263916303137" />
+<img width="1919" height="1024" alt="Screenshot 2025-09-05 163442" src="https://github.com/user-attachments/assets/7c7c9ea1-2b20-4d6d-81bc-8f512deb57dd" />
+
+
 ### ✨ Key Features
 
 - **🤖 AI-Powered Responses**: Uses OpenAI GPT-4 for intelligent, contextual answers
